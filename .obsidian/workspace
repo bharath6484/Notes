@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "f55d74ed7e27de44",
+    "type": "split",
+    "children": [
+      {
+        "id": "165618dea2dfca78",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Trading/Price Bar - Foundation of Technical Analysis.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ae0a1727ef9ebb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd368a091967fc36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3d62683c2339607",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4620124df358f69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d8f310bd9486c84",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 173.5
+  },
+  "right": {
+    "id": "f0c3619d4185d513",
+    "type": "split",
+    "children": [
+      {
+        "id": "9723d64b8705241f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa8b17534ee3988e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Trading/Price Bar - Foundation of Technical Analysis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74b38c8e4152e224",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Trading/Price Bar - Foundation of Technical Analysis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7336cec49defff1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "669892cdf77c77ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Trading/Price Bar - Foundation of Technical Analysis.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "165618dea2dfca78",
+  "lastOpenFiles": [
+    "Trading/0. Index.md",
+    "Trading/Price Bar - Foundation of Technical Analysis.md",
+    "Trading/Trading With Technical Analysis.md",
+    "Trading/Moving Average.md",
+    "Trading/Trading with Technical Analysis.md",
+    "Untitled.md",
+    "README.md",
+    "ToolsForIT/Git/GIT.md"
+  ]
+}
